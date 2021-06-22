@@ -1,7 +1,7 @@
 ## Dick-tionary / 딕어사전
 is a dictionary of the language 'Dick' that I made just for fun.
-[Here](https://github.com/Annyeong-One/Dicktionary/blob/main/dictionary.md) are the actual list of words. This website updates every week (or something like that). \
-[여기](https://github.com/Annyeong-One/Dicktionary/blob/main/dictionary.md) 로 가면 실제 사전을 확인할 수 있습니다. 현재 사이트는 (대충) 매주 업데이트됩니다.
+[Here](https://github.com/Annyeong-One/Dicktionary/) are the actual list of words. This website updates every week (or something like that). \
+[여기](https://github.com/Annyeong-One/Dicktionary/) 로 가면 실제 사전을 확인할 수 있습니다. 현재 사이트는 (대충) 매주 업데이트됩니다.
 
 
 ### Word / 단어
