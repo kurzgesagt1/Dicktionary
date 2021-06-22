@@ -1,6 +1,7 @@
-## Dick-tionary
+## Dick-tionary / 딕어사전
 is a dictionary of the language 'Dick' that I made just for fun.
 
+### Word / 단어
 c (Dic) : 네, 맞다, 옳은 \
 x (Dix) : 찬양하다, 믿다 \
 ck (Dick) : 신, 신찬 (God, Dick) \
