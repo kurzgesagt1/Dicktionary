@@ -43,3 +43,4 @@ xxc (Dixdixc) : 이것, 그것 \
 ckc (Dickdic) : 원하다, 원하는 \
 -xx (Didixdix) : 너 \
 -xxc (Didixdixc) : 저것 \
+-xxk (Didixdixk) : 이름 \
